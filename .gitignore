@@ -1,0 +1,13 @@
+
+*.sh
+*.xml
+*.iml
+assignment1/Makefile
+*.npy
+*.pyc
+*.txt
+*.pdf
+*.png
+*.zip
+assignment2/.idea/.name
+*.conll
